@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "thickthiegslovers.aternos.me",
+    "ip": "thickthiegslovers.aternos.me:13677",
     "port": 13677,
     "version": "1.20.1",
     "try-creative": false
